@@ -72,7 +72,7 @@ ru text
 
 eng text
 
-## Collections: sheets and sets
+## Collections: list and sets
 
 What tasks need to be completed:
 
